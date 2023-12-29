@@ -1,7 +1,7 @@
 # Java Quiz Application
 * **🎮 Welcome to the Java Quiz Application**
 
-This repository contains a simple Java Quiz Application developed using NetBeans IDE 8.2. The quiz application allows users to answer multiple-choice questions within a specified time limit. The application includes features such as question display, answer submission, score calculation, and a result screen.
+This repository contains a simple Java Quiz Application developed using NetBeans IDE 20. The quiz application allows users to answer multiple-choice questions within a specified time limit. The application includes features such as question display, answer submission, score calculation, and a result screen.
 
 # 🔧 Key Features:
 * **Quiz Questions and Options:** The application stores quiz questions along with multiple-choice options and correct answers. Questions are initialized in the initializeQuestions method.
